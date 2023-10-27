@@ -1,0 +1,6 @@
+train: C:/Users/riyan/OneDrive/Desktop/YoloV8/train
+val: C:/Users/riyan/OneDrive/Desktop/YoloV8/val
+
+nc: 4
+
+names: ["bottle_cap","water_bottle","milk_bottle","cool_drink_bottle"]

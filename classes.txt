@@ -1,0 +1,4 @@
+bottle_cap
+water_bottle
+milk_bottle
+cool_drink_bottle
